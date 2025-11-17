@@ -13,3 +13,4 @@ export default defineConfig({
     url: "file:./app/prisma/dev.db",
   },
 });
+
